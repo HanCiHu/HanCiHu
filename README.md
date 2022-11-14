@@ -34,7 +34,9 @@
 | ------------- | ------------- |
 
 <div align=center>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanCiHu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<a href="https://velog.io/@hancihu"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanCiHu&count_bg=%23735AFF&title_bg=%23000000&icon=react.svg&icon_color=%23FFFFFF&title=HanCiHu&edge_flat=false"/></a> <a href='https://www.linkedin.com/in/hancihu'><img src="https://img.shields.io/badge/LinedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/></a> <a href='https://velog.io/@hancihu'><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a> <a href='mailto:chanhui.yu.cnu@gmail.com'><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+
+
   
 </div>
