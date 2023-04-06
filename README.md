@@ -30,7 +30,9 @@
 
 ## Career 🤝
 - <a href = https://hayanmind.com/> HayanMind Intern </a> **(2023.03 ~ now)**
--  [HCI Korea 2023 Paper](https://conference.hcikorea.org/hcik2023/main/main.asp) [Design and Implementation of a Medication Support System using AI Speaker](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229679) **(2022.07 ~ 2023.02)**
+-  [HCI Korea 2023 Paper Oral Presentation](https://conference.hcikorea.org/hcik2023/main/main.asp)
+    -  [Design and Implementation of a Medication Support System using AI Speaker](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229679) **(2022.07 ~ 2023.02)**
+
 
 ## Activity 🌱
 
