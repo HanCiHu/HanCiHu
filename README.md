@@ -28,6 +28,10 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"/>
 
+## Career 🤝
+- <a href = https://hayanmind.com/> HayanMind Intern </a> **(2023.03 ~ now)**
+-  [HCI Korea 2023 Paper](https://conference.hcikorea.org/hcik2023/main/main.asp) [Design and Implementation of a Medication Support System using AI Speaker](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229679) **(2022.07 ~ 2023.02)**
+
 ## Activity 🌱
 
 - <a href = https://www.swmaestro.org/sw/main/main.do> SW Maestro 13th Trainee</a> **(2022.04 ~ 2022.11)**
