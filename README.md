@@ -39,8 +39,8 @@
 
 ## Activity 🌱
 
-- <a href = https://www.swmaestro.org/sw/main/main.do> SW Maestro 13th Trainee</a> **(2022.04 ~ 2022.11)**
 - <a href = http://swacademy.cnu.ac.kr> CNU SW Academy 1st, 2nd TA </a> **(2022.07 ~ 2023.02)**
+- <a href = https://www.swmaestro.org/sw/main/main.do> SW Maestro 13th Trainee</a> **(2022.04 ~ 2022.11)**
 - <a href = https://boostcamp.connect.or.kr/> boostcamp 6th Web Full-Stack Membership Camper</a> **(2021.08 ~ 2021.12)**
 - <a href = https://boostcamp.connect.or.kr/> boostcamp 6th Web Full-Stack Challenge Camper</a> **(2021.07 ~ 2021.08)**
 - <a href = https://42seoul.kr/seoul42/main/view/> 42Seoul 1st Cadet</a> **(2020.01 ~ 2021.02)**
