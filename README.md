@@ -45,14 +45,3 @@
 - <a href = https://boostcamp.connect.or.kr/> boostcamp 6th Web Full-Stack Challenge Camper</a> **(2021.07 ~ 2021.08)**
 - <a href = https://42seoul.kr/seoul42/main/view/> 42Seoul 1st Cadet</a> **(2020.01 ~ 2021.02)**
 
-## Summary 🔭
-
-| ![ChanHui's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanCiHu&show_icons=true&theme=highcontrast) | [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kinm1596)](https://solved.ac/kinm1596/) |
-| ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-
-<div align=center>
-
-<a href="https://velog.io/@hancihu"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanCiHu&count_bg=%23735AFF&title_bg=%23000000&icon=react.svg&icon_color=%23FFFFFF&title=HanCiHu&edge_flat=false"/></a> <a href='https://www.linkedin.com/in/hancihu'><img src="https://img.shields.io/badge/LinedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=FFFFFF"/></a> <a href='https://velog.io/@hancihu'><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a> <a href='mailto:chanhui.yu.cnu@gmail.com'><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
-
-</div>
-
