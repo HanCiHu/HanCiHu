@@ -35,7 +35,10 @@
 ## Paper 📝
 -  [HCI Korea 2023 Paper Oral Presentation](https://conference.hcikorea.org/hcik2023/main/main.asp)
     -  [Design and Implementation of a Medication Support System using AI Speaker](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229679) **(2022.07 ~ 2023.02)**
-
+ 
+## Open Source Contribution
+- Next.js: [update @types/react version in examples](https://github.com/vercel/next.js/pull/57259)
+    - issue: [Typescript error with Next13, Monorepo (turbo repo), and Async components](https://github.com/vercel/next.js/issues/55080)
 
 ## Activity 🌱
 
