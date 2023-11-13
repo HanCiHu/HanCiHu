@@ -38,7 +38,6 @@
  
 ## Open Source Contribution
 - Next.js: [update @types/react version in examples](https://github.com/vercel/next.js/pull/57259)
-    - issue: [Typescript error with Next13, Monorepo (turbo repo), and Async components](https://github.com/vercel/next.js/issues/55080)
 
 ## Activity 🌱
 
