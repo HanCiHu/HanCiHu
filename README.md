@@ -39,6 +39,7 @@
  
 ## Open Source Contribution
 - Next.js: [update @types/react version in examples](https://github.com/vercel/next.js/pull/57259)
+- tiptap extension global drag handle: [Add exception tag list for global drag handle](https://github.com/NiclasDev63/tiptap-extension-global-drag-handle/pull/17)
 
 ## Activity 🌱
 
