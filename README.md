@@ -2,7 +2,7 @@
 
 - 🙌 **grow "Together"**
 - 🧑‍🎓 **Chungnam Univ.** Computer Science & Engineering
-- 👨‍💻 **Front-End** Developer
+- 👨‍💻 **Full-Stack** Engineer
 
 ## Skills 🛠
 
